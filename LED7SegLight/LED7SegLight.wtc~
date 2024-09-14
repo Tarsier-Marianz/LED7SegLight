@@ -1,0 +1,6 @@
+# Watches definition file -- MCU 8051 IDE v1.4.10
+ .90 LEDP10
+ .95 LEDP15
+ .A4 LEDP24
+ .A5 LEDP25
+ .B5 LEDP35
